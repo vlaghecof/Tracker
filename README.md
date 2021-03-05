@@ -6,3 +6,6 @@ cities.
 The scraper gets the information for the past 3 days and generates a report, which is, in turn, send by mail to a list of people. In order to make the script autonomous o loaded it on a cloud platform and set it to run once every day when the results of today's date are posted.
 
 
+ <p align="center">
+<img src="https://github.com/vlaghecof/RestaurantManager/blob/master/out/tracker.jpg" height="400em" align="center"  />
+ </p>
