@@ -320,8 +320,8 @@ finally:
 port = 465  # For SSL
 smtp_server = "smtp.gmail.com"
 sender_email = "automateemailtestcv@gmail.com"  # Enter your address
-receiver_emails = ["vladcofaru@yahoo.com","nicolae.cofaru@ulbsibiu.ro","ioana.cofaru@ulbsibiu.ro","ionutcofaru@yahoo.com","gabrielasas2007@yahoo.com"]  # Enter receiver address
-password = "cofaru123"
+receiver_emails = ["adr1@yahoo.com","adr3@yahoo.com","adr2@yahoo.com"]  # Enter receiver address
+password = "pass"
 
 
 
